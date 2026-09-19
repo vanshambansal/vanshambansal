@@ -1,5 +1,13 @@
 # 💫 About Me:
-🔭 I’m currently looking for an internship aligned with what I’m learning.<br>🤝 I’m looking to collaborate on open source projects.<br>🌱 I’m currently learning C++ and NEXTJs.<br>💬 Ask me about cricket, tech randomness, or startup gossip.<br>✨ Fun Fact: The universe is not only expanding, it’s accelerating meaning space itself is stretching faster than light can travel.
+CS undergrad building things across the stack.
+
+C++ • Java • JavaScript  
+React • Next.js • Node.js • PostgreSQL  
+DSA • Backend • System Design
+
+Currently learning, building, breaking, and understanding what happens under the hood.
+
+Open to open source and interesting collaborations.
 
 
 ## 🌐 Socials:
